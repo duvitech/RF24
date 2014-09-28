@@ -18,6 +18,7 @@
 
 #include <nRF24L01.h>
 #include <RF24_config.h>
+typedef char PROGMEM prog_char;
 
 /**
  * Power Amplifier level.
